@@ -3,17 +3,17 @@
 
 <view class="container">
 
-  <image src="/images/post/sls.jpg" class="head-image"></image>
+  <image src="{{headImgSrc}}" class="head-image"></image>
   <image src="/images/music/music-start.png" class="audio"></image>
 
   <view class="author-date">
-    <image src="/images/avatar/2.png" class="avatar"></image>
-    <text class="author">林白衣</text>
+    <image src="{{avatar}}" class="avatar"></image>
+    <text class="author">{{author}}</text>
     <text class="const-text">发表于</text>
-    <text class="date">24小时前</text>
+    <text class="date">{{dateTime}}</text>
   </view>
 
-  <text class="title">又是蟹肥虾壮时</text>
+  <text class="title">{{title}}</text>
 
   <view class="tool">
 
@@ -28,6 +28,6 @@
 
   </view>
 
-  <text class="detail">是谁来自山川湖海,是谁来自山川湖海,是谁来自山川湖海,是谁来自山川湖海,是谁来自山川湖海,是谁来自山川湖海,是谁来自山川湖海</text>
+  <text class="detail">{{detail}}</text>
 
 </view>
