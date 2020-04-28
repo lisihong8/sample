@@ -14,11 +14,11 @@ Page({
   },
 
   onHide: function() {
-    console.log('welcome page is Hide');
+    // console.log('welcome page is Hide');
   },
 
   onUnload: function() {
-    console.log('welcome page is unload');
+    // console.log('welcome page is unload');
   }
 
 })

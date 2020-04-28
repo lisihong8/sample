@@ -14,7 +14,11 @@
   <block wx:for="{{posts_key}}" wx:for-item="item" wx:for-index="" wx:key="index">
     <!-- <text>{{index}}</text> -->
     
-    <template is="postItem" data="{{...item}}"/>
+    <view catch:tap="onPostTap" data-postId="{{item.postId}}"  data-post-name="lisihong">
+
+      <template is="postItem" data="{{...item}}"/>
+      
+    </view>
 
   </block>
 

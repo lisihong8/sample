@@ -1,8 +1,7 @@
-
-
 // 按住  alt+shift+F 可以格式化代码格式
 
 var local_database = [{
+  postId: 0,
   date: "Nov 12 2018",
   title: "正是虾肥蟹壮时",
   imgSrc: "/images/post/crab.png",
@@ -12,6 +11,7 @@ var local_database = [{
   collection: '96',
 
 }, {
+  postId: 1,
   date: "Nov 12 2018",
   title: "正是虾肥蟹壮时",
   imgSrc: "/images/post/bl.png",
@@ -21,6 +21,7 @@ var local_database = [{
   collection: '89',
 
 }, {
+  postId: 2,
   date: "Nov 12 2018",
   title: "正是虾肥蟹壮时",
   imgSrc: "/images/post/cat.png",
@@ -30,6 +31,7 @@ var local_database = [{
   collection: '196',
 
 }, {
+  postId: 3,
   date: "Nov 12 2018",
   title: "正是虾肥蟹壮时",
   imgSrc: "/images/post/sls.jpg",
@@ -39,6 +41,7 @@ var local_database = [{
   collection: '96',
 
 }, {
+  postId: 4,
   date: "Nov 12 2018",
   title: "正是虾肥蟹壮时",
   imgSrc: "/images/post/vr.png",
@@ -48,6 +51,7 @@ var local_database = [{
   collection: '45',
 
 }, {
+  postId: 5,
   date: "Nov 12 2018",
   title: "正是虾肥蟹壮时",
   imgSrc: "/images/post/xiaolong.jpg",
