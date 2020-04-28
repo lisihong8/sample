@@ -1,1 +1,32 @@
-<text>这是一个详情页面</text>
+
+<!-- 先静后动,先样式再数据 -->
+
+<view class="container">
+
+  <image src="/images/post/sls.jpg" class="head-image"></image>
+
+  <view class="author-date">
+    <image src="/images/avatar/2.png" class="avatar"></image>
+    <text class="author">林白衣</text>
+    <text class="const-text">发表于</text>
+    <text class="date">24小时前</text>
+  </view>
+
+  <text class="title">又是蟹肥虾壮时</text>
+
+  <view class="tool">
+
+    <view class="circle-img">
+      <image src="/images/icon/collection.png"></image>
+      <image src="/images/icon/share.png" class="share-img"></image>
+    </view>
+
+    <!-- 一条直线 -->
+    <view class="horizon"></view>
+    <!-- 一条直线 -->
+
+  </view>
+
+  <text class="detail">是谁来自山川湖海,是谁来自山川湖海,是谁来自山川湖海,是谁来自山川湖海,是谁来自山川湖海,是谁来自山川湖海,是谁来自山川湖海</text>
+
+</view>
