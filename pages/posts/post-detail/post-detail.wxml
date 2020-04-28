@@ -4,6 +4,7 @@
 <view class="container">
 
   <image src="/images/post/sls.jpg" class="head-image"></image>
+  <image src="/images/music/music-start.png" class="audio"></image>
 
   <view class="author-date">
     <image src="/images/avatar/2.png" class="avatar"></image>

@@ -8,6 +8,20 @@
   height: 460rpx;
 }
 
+.audio {
+  width: 102rpx;
+  height: 110rpx;
+  position: absolute;
+  left: 50%;
+  margin-left: -51rpx;
+  /* transform: translateX(-50%); */
+  top: 180rpx;
+  /* top: 50%; */
+  /* margin-top: -55rpx; */
+  /* transform: translateY(-50%); */
+  opacity: 0.6;
+}
+
 .author-date {
   display: flex;
   flex-direction: row;
